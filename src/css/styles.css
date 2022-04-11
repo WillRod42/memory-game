@@ -1,0 +1,12 @@
+.card {
+  min-height: 100px;
+  min-width: 100px;
+}
+
+.matched {
+  background-color: rgba(21, 255, 0, 0.342);
+}
+
+.not-matched {
+  background-color: rgba(255, 0, 0, 0.329);
+}
